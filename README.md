@@ -4,4 +4,4 @@ This is a gorilla
 ## A different kind of monkey
 This is an orangutan
 ![image](https://github.com/dhdfw7/Monke/assets/145697378/976f2b7b-7c65-4aa0-8e61-3247061dcf7c)
-### To read more about monkeys, visit [Wikipedia] (https://en.wikipedia.org/wiki/Monkey)
+### To read more about monkeys, visit [Wikipedia](https://en.wikipedia.org/wiki/Monkey)
