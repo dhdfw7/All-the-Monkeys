@@ -1,6 +1,8 @@
 remote_theme: pages-themes/slate@v0.2.0
+
 title: All The Monkeys
 description: Learn about some monkeys
+
 - type: dropdown
   name: language
   label: Language
