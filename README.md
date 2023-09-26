@@ -1,9 +1,11 @@
 # Monkey
-*This* is a **gorilla**
+*This* is a [^1]**gorilla**
+[^1] Herbivores that are the largest living primates in terms of physical size.
 
 ![image](https://github.com/dhdfw7/Monke/assets/145697378/af6beca4-4e3d-462f-86a6-1085bd98e70d)
 ## A different kind of monkey
-*This* is an ~~orangutang~~ **orangutan**
+*This* is an ~~orangutang~~ [^1]**orangutan**
+[^1] A large, orange, and very intelligent great ape.
 
 ![image](https://github.com/dhdfw7/Monke/assets/145697378/976f2b7b-7c65-4aa0-8e61-3247061dcf7c)
 
