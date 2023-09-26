@@ -1,5 +1,5 @@
 # Monkey 🦍
-*This* is a [^1]**gorilla**, the herbivorous, largest living primates today in terms of physical size.
+*This* is a **gorilla**, the herbivorous, largest living primates today in terms of physical size.
 
 ![image](https://github.com/dhdfw7/Monke/assets/145697378/af6beca4-4e3d-462f-86a6-1085bd98e70d)
 
