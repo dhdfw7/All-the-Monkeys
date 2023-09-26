@@ -7,7 +7,7 @@
 
 ![image](https://github.com/dhdfw7/Monke/assets/145697378/976f2b7b-7c65-4aa0-8e61-3247061dcf7c)
 
-A nosy monkey
+### A nosy monkey ###
 Now *this* is a really **nosy** monkey
 
 ![image](https://github.com/dhdfw7/All-the-Monkeys/assets/145697378/4ab6166e-9674-4bf7-9831-ff611eaf48ea)
