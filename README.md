@@ -9,8 +9,7 @@
 ![image](https://github.com/dhdfw7/Monke/assets/145697378/976f2b7b-7c65-4aa0-8e61-3247061dcf7c)
 
 ### A nosy monkey 👃
-Now *this* is a really **nosy** monkey known as the proboscis monkey, with red, orange, and yellow coats 
-and large noses and extraordinary jumping skills.
+Now *this* is a really **nosy** monkey known as the proboscis monkey. They have a mix of red, orange, and yellow coats, with large noses and extraordinary jumping skills.
 
 ![image](https://github.com/dhdfw7/All-the-Monkeys/assets/145697378/4ab6166e-9674-4bf7-9831-ff611eaf48ea)
 ### To read more about monkeys, visit [Wikipedia](https://en.wikipedia.org/wiki/Monkey)
