@@ -3,8 +3,19 @@ remote_theme: pages-themes/slate@v0.2.0
 title: All The Monkeys
 description: Learn about some monkeys
 
-<details>:
-<summary>: Want to ruin the surprise? </summary>
-<br>:
-Well, you asked for it!:
-</details>:
+<details>
+<summary>Well</summary>
+
+<details>
+<summary>Try this</summary>
+
+ <details>
+ <summary>The other one</summary>
+
+   <details>
+   <summary>Ok, try this</summary>
+   You got me 😂
+   </details>
+ </details>
+</details>
+</details>
