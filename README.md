@@ -8,8 +8,6 @@
 
 ![image](https://github.com/dhdfw7/Monke/assets/145697378/976f2b7b-7c65-4aa0-8e61-3247061dcf7c)
 
-<p style="text-align: center;">Text_content</p>
-
 <h2 align="center"> A nosy monkey 👃 </h2>
 Now *this* is a really **nosy** monkey known as the proboscis monkey. They have a mix of red, orange, and yellow coats, with large noses and extraordinary jumping skills.
 
