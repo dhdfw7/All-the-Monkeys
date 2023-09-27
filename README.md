@@ -1,16 +1,10 @@
 # Monkey 🦍 
-<p align="center">
 *This* is a **gorilla**, the herbivorous, largest living primates today in terms of physical size.
-</p>
 
-<p align="center">
 ![image](https://github.com/dhdfw7/Monke/assets/145697378/af6beca4-4e3d-462f-86a6-1085bd98e70d)
-</p>
 
 <h1 align="center"> A different kind of monkey 🦧 </h1>
-<p align="center">
 *This* is an ~~orangutang~~ **orangutan**, a large, orange, and very intelligent great ape.
-</p>
 
 ![image](https://github.com/dhdfw7/Monke/assets/145697378/976f2b7b-7c65-4aa0-8e61-3247061dcf7c)
 
